@@ -1,5 +1,5 @@
 # Đây là chương trình Python đầu tiên của bạn
-
+# Đây là chương trình Python đầu tiên của bạn
 # In ra màn hình một thông điệp chào mừng
 print("Chào mừng bạn đến với Python!")
 
